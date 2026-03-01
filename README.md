@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This is my Northeastern GitHub!
 <!--
 **HMack01/HMack01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
